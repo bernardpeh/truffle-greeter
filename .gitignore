@@ -1,0 +1,5 @@
+/node_modules
+/.idea
+#Buidler files
+/.env
+/build

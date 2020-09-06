@@ -1,0 +1,16 @@
+{
+  "name": "Greeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/buidler": "^1.4.4",
+    "@truffle/hdwallet-provider": "^1.0.43",
+    "dotenv": "^8.2.0"
+  }
+}
